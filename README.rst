@@ -5,15 +5,15 @@ General terms
 -------------
 
 process (German: Prozess)
-    A participation process includes a broader audience in a combination of one
+    A participation process includes a broad public in a combination of one
     or more methods to debate and/or make a decision on a specific topic.
 
     A process resource in online participation is used to document the whole
-    participation process. It thereby makes progress evident to the audience
+    participation process. It thereby makes progress evident to the public
     and safeguards the results.
 
     Processes usually have clearly defined properties: A fixed period of time
-    (possibly permanent), topic/goal, target audience, location (where
+    (possibly permanent), topic/goal, target group, location (where
     applicable).
 
 method / tool (German: Methode / Werkzeug)
@@ -21,22 +21,22 @@ method / tool (German: Methode / Werkzeug)
     A tool is a software that implements a specific method. In our context they
     can be used synonymously.
 
-    In one process, content may be transfered from one method to another or
+    In one process, content may be transferred from one method to another or
     even worked on with different methods at the same time (e.g. online and
     offline).
 
     Different software solutions have different approaches on how to build
-    processes from individual methods.
+    processes with individual methods.
 
 phases (German: Phase)
     A process is typically structured as a progression of phases. The end of
-    each phase marks a milestone with intermediary result that can be build
+    each phase marks a milestone with intermediary results that can be build
     upon in the next phases.
 
     The end of a phase can be determined by several factors, e.g. a fixed date,
     a quorum, or an admin action.
 
-    Phases can also have significant impact on the features that are available
+    Phases can also define the features that are available
     to users.
 
     All processes have an announce phase before and a result phase after the
